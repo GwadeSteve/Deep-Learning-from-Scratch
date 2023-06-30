@@ -1,6 +1,6 @@
 # Deep Learning from Scratch
 
-This repository contains the implementation of deep learning algorithms from scratch. By building neural networks without relying on existing deep learning frameworks, we gain a deeper understanding of the underlying concepts and mathematics involved in deep learning.
+This repository contains the implementation of machine learning and deep learning algorithms from scratch. By building neural networks without relying on existing deep learning frameworks, we gain a deeper understanding of the underlying concepts and mathematics involved in deep learning.
 
 ## Introduction
 
