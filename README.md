@@ -4,15 +4,15 @@ This repository contains the implementation of some machine learning and deep le
 
 ## Introduction
 
-Deep learning has revolutionized various fields such as computer vision, natural language processing, and robotics. Understanding the fundamental concepts behind deep learning algorithms is crucial for effectively applying them to real-world problems. This repository provides a collection of implementations for popular deep learning algorithms, all written from scratch in Python.
+Deep learning has revolutionized various fields such as computer vision, natural language processing, and robotics. Understanding the fundamental concepts behind deep learning algorithms is crucial for effectively applying them to real-world problems. This repository provides a collection of implementations for some popular deep learning algorithms, all written from scratch in Python.
 
 ## Features
 
 - Implementation of feedforward neural networks
 - Backpropagation algorithm
-- Activation functions (e.g., sigmoid, ReLU)
-- Loss functions (e.g., mean squared error, cross-entropy)
-- Optimization algorithms (e.g., stochastic gradient descent)
+- Activation functions (e.g., sigmoid, ReLU, Heavyside)
+- Loss functions (e.g., mean squared error, cross-entropy, Log-loss)
+- Optimization algorithms (e.g., Gradient descent)
 - Regularization techniques (e.g., dropout)
 - Convolutional neural networks (CNNs)
 - Recurrent neural networks (RNNs)
