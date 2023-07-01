@@ -1,6 +1,6 @@
 # Deep Learning from Scratch
 
-This repository contains the implementation of machine learning and deep learning algorithms from scratch. By building neural networks without relying on existing deep learning frameworks, we gain a deeper understanding of the underlying concepts and mathematics involved in deep learning.
+This repository contains the implementation of some machine learning and deep learning algorithms from scratch. By building neural networks without relying on existing deep learning frameworks, we gain a deeper understanding of the underlying concepts and mathematics involved in deep learning.
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Deep learning has revolutionized various fields such as computer vision, natural
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Deep-Learning-from-Scratch.git
+   git clone https://github.com/GwadeSteve/Deep-Learning-from-Scratch.git
    ```
 
 2. Install the required dependencies:
